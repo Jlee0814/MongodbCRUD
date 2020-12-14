@@ -21,3 +21,5 @@ likenum|	count the likes|	Int32
 replynum	|num of replies	|Int32
 state	|delete or not	|String 0：invisible；1：visible；
 parentid	|parent comment id	|String 0: the parent comment
+
+![](https://github.com/Jlee0814/MongodbCRUD/blob/master/aa.png)
